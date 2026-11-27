@@ -75,10 +75,15 @@ The interactive dashboard provides:
 - Income-based comparisons.
 - Interactive filtering using slicers.
 
+## 📊 Dashboard Preview
+
+Here is a preview of my interactive Bike Sales Dashboard, developed using Microsoft Excel.
+<img width="349" height="284" alt="dashboard" src="https://github.com/user-attachments/assets/9dc4ba52-cdfb-472e-82e3-b10fb345aa32" />
+
+
 ## 💡 Key Learning Outcomes
 
 Through this project, I gained practical experience in:
-
 - Cleaning and preparing datasets in Excel.
 - Working with PivotTables and PivotCharts.
 - Using slicers to create interactive dashboards.
